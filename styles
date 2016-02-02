@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h2 style="color:red;">I am black</h2>
-<h2 style="color:blue;">I am brown</h2>
+<h2 style="color black;">I am black</h2>
+<h2 style="color:brown;">I am brown</h2>
 
 </body>
 </html>
